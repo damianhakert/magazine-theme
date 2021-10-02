@@ -1,0 +1,4 @@
+name: 'Mailchimp Test'
+type: module
+description: 'Mailchimp Test Module.'
+package: Testing

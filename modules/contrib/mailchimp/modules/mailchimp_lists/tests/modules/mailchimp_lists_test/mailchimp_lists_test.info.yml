@@ -1,0 +1,5 @@
+name: 'Mailchimp Lists Test'
+type: module
+description: 'Mailchimp Lists Test Module.'
+package: Testing
+core_version_requirement: ^8.7.7 || ^9
